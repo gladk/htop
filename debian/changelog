@@ -1,3 +1,19 @@
+htop (2.0.0-1) unstable; urgency=medium
+
+  * [86b5aa5] Update d/watch.
+  * [d63bb21] Add d/source file.
+  * [69d83bc] Remove old patches.
+  * [1bc95b5] Imported Upstream version 2.0.0
+  * [f18a7a8] Use DEP-5 for d/copyright.
+  * [0b143d9] Apply cme fix dpkg to d/control.
+  * [effce16] Remove README.source.
+  * [17cf477] Remove menu-file.
+  * [dcd0e79] Add source/format.
+  * [e3145e3] Set compat-level to 9
+  * [bf47a54] Simplify d/rules.
+
+ -- Anton Gladky <gladk@debian.org>  Tue, 23 Feb 2016 21:59:54 +0100
+
 htop (1.0.3-1) unstable; urgency=low
 
   * New upstream release.
